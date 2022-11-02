@@ -1,0 +1,11 @@
+main {
+    background-color: var(--main-grey);
+}
+
+.card {
+    background-color: var(--secundary-grey);
+}
+
+.card-header {
+    font-weight: 600;
+}
