@@ -12,3 +12,9 @@
 .mount-color {
     color: var(--main-red);
 }
+
+.required::after {
+    color: var(--main-red);
+    font-weight: 600;
+    content: " *";
+}
