@@ -1,0 +1,14 @@
+:root {
+    --main-dark: #000000;
+    --main-red: #FF0000;
+    --main-grey: #a9a9a9;
+    --main-white: #FFFFFF;
+}
+
+.logo {
+    color: var(--main-grey);
+}
+
+.mount-color {
+    color: var(--main-red);
+}
